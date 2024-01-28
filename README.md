@@ -1,9 +1,9 @@
 <h3>Hi 👋, I'm Mirosław</h1>
 <h4>Aspiring engineer at the Wrocław University of Technology.</h3>
 
-- 🔭 I’m currently working on STM32-based Microprocessor-based Measurement Data Recorder
+- 🔭 I’m currently working on **STM32-based Microprocessor-based Measurement Data Recorder, which is part of my engineering thesis**,
 
-- 🌱 I’m currently learning **embedded systems, especially STM32 and ESP32 **
+- 🌱 I’m currently learning **embedded systems, especially STM32 and ESP32**,
 
 - 👨‍💻 All of my projects are available at [https://github.com/miwierzbicki/](https://github.com/miwierzbicki/)
 
