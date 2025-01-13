@@ -1,7 +1,7 @@
 <h3>Hi 👋, I'm Mirosław</h1>
-<h4>Aspiring engineer at the Wrocław University of Technology.</h3>
+<h4>Experienced IT Specialist currently working in IT outsourcing company.</h3>
 
-- 🔭 I’m currently working on **STM32-based Microprocessor-based Measurement Data Recorder, which is part of my engineering thesis**,
+- 🔭 I’ve completed working on **STM32-based Microprocessor-based Measurement Data Recorder, which was part of my engineering thesis**,
 
 - 🌱 I’m currently learning **embedded systems, especially STM32 and ESP32**,
 
