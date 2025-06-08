@@ -1,9 +1,6 @@
 <h3>Hi 👋, I'm Mirosław</h1>
-<h4>Experienced IT Specialist currently working in IT outsourcing company.</h3>
 
-- 🔭 I’ve completed working on **STM32-based Microprocessor-based Measurement Data Recorder, which was part of my engineering thesis**,
-
-- 🌱 I’m currently learning **embedded systems, especially STM32 and ESP32**,
+- 🌱 I’m currently learning **cloud security and cloud architecture**,
 
 - 👨‍💻 All of my projects are available at [https://github.com/miwierzbicki/](https://github.com/miwierzbicki/)
 
